@@ -1,1 +1,1 @@
-this is srudent AMS
+this is student AMS
